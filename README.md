@@ -76,3 +76,10 @@ str
 fload
 bool
 len
+
+# virtual environments
+to create a virtual env just type 
+
+```
+virtualenv %theNameOfTheEnv%
+```
