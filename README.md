@@ -83,3 +83,6 @@ to create a virtual env just type
 ```
 virtualenv %theNameOfTheEnv%
 ```
+
+## sunday 20-09-2020
+phils coming over to push this course again :-)
